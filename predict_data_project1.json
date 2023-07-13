@@ -1,0 +1,1 @@
+{"Gender": {"Male": 0, "Female": 1}, "column": ["CreditScore", "Gender", "Age", "Tenure", "Balance", "NumOfProducts", "HasCrCard", "IsActiveMember", "EstimatedSalary", "Exited", "Geography_France", "Geography_Germany", "Geography_Spain"]}
