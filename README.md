@@ -1,6 +1,6 @@
 # Churn_prediction :
 Welcome to the project! This repository contains an comparison of alorithms from that we can conclude that which algorithm we gonna use for to production that predicts the person is exited or retained credit card use using a given dataset. 
-The dataset includes the following features:CreditScore	Geography	Gender	Age	Tenure	Balance	NumOfProducts	HasCrCard	IsActiveMember	EstimatedSalary	Exited
+The dataset includes the following features:  CreditScore, Geography	,Gender	,Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, Exited
 
 1.CreditScore
 
